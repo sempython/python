@@ -1,9 +1,3 @@
-// 1
-print ("Hello World")
-
-// 2
-print ("Hello")
-name = input()
-print ("hello", name)
-
-// 3
+print ("Brack obama")
+X = input()
+print ("You are brack o bama")
