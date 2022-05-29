@@ -2,7 +2,7 @@ PlayerPoints1 = 0
 PlayerPoints2 = 0
 import random
 print ("Welcom to Dice Wars")
-print ("Player who Scores most points Wins")
+print ("The Player who Scores most points Wins")
 print ("Player 1 Type your Name")
 Player1 = str(input())
 print ("Player 2 Type your Name")
